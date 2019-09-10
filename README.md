@@ -1,2 +1,2 @@
-# appautocuidado
-Proyecto de grado 2
+# Ejemplo
+Proyecto
